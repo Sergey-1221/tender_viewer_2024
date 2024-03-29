@@ -9,6 +9,6 @@ http://localhost:3000/tender
 
 
 ## Backend start
-1. Запустить бд <br>
-2. Поменять адрес, юзера и пароль в src/main/resources/application.properties <br>
-3. ./gradlew bootRun <br>
+Запустить бд <br>
+Поменять адрес, юзера и пароль в src/main/resources/application.properties <br>
+./gradlew bootRun <br>
